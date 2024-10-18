@@ -29,7 +29,7 @@ function App() {
     <div className="min-h-screen bg-green-100 flex flex-col">
       <header className="bg-green-600 text-white p-4">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Golf Practice App</h1>
+          <h1 className="text-2xl font-bold">Golf Practice App (this is a test edit)</h1>
           <button
             onClick={handleLogout}
             className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded"
